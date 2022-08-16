@@ -1,8 +1,16 @@
 # ZK-Teco-Registeration-PCAP
 Repository Created for ZK Teco Unofficial SDK Software Feature Request
 
-# NORMAL MODE PCAP
-Normal Mode PCAP File named as "Upload_FP_Users_Normal Mode"
+# Root Dir (TEST CASES)
+ - Upload 1 User 1 FP
+ - Upload 1 User 2 FP
+ - Upload 2 Users 2 FP
+ - Upload 2 Users 4 FP (Additional)
+ - Upload 3 Users 0 FP
+ - Upload 150 Users 300 FP
 
-# HIGH RATE DATA MODE PCAP
-High Rate Data Mode PCAP File named as "Upload_FP_Users_High_Rate Mode"
+# Sub Dir
+ - ### NORMAL MODE PCAP DIR
+    Normal Mode PCAP File named as "Normal Mode"
+ - ### HIGH RATE DATA MODE PCAP DIR
+    High Rate Data Mode PCAP Dir named as "High Data Rate Mode Mode"
