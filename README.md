@@ -11,6 +11,6 @@ Repository Created for ZK Teco Unofficial SDK Software Feature Request
 
 # Sub Dir
  - ### NORMAL MODE PCAP DIR
-    Normal Mode PCAP File named as "Normal Mode"
+    Normal Mode PCAP Files Dir named as "Normal Mode"
  - ### HIGH RATE DATA MODE PCAP DIR
-    High Rate Data Mode PCAP Dir named as "High Data Rate Mode Mode"
+    High Rate Data Mode PCAP Files Dir named as "High Data Rate Mode Mode"
